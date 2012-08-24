@@ -1,0 +1,5 @@
+#summary One-sentence summary of this page.
+
+= Introductión =
+
+Proyecto para generar un TPV de código libre.
